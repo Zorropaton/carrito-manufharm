@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Carrito de Pedidos - Manufharm</title>
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
+    <script>
+        (function(){
+            emailjs.init("zCSiSodo0VsHC4LbD"); // Public Key
+        })();
+    </script>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+        th, td { border: 1px solid #ccc; padding: 6px; text-align: left; }
+        th { background-color: #eee; }
+        input[type='number'] { width: 50px; }
+        input[type='text'] { margin-bottom: 10px; width: 300px; padding: 5px; }
+        #carrito { margin-top: 20px; }
+        .btn { padding: 4px 12px; background: #007bff; color: white; border: none; cursor: pointer; }
+        .btn:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h2>Carrito de Pedidos - Manufharm</h2>
+
+    <input type="text" id="buscar" placeholder="Buscar por nombre, código o EAN" onkeyup="filtrarProductos()"/>
+
+    <table id="tablaProductos">
+        <thead>
+            <tr>
+                <th>EAN</th><th>Interno</th><th>Descripción</th><th>Precio</th><th>Vencimiento</th><th>Cant</th><th>Agregar</th>
+            </tr>
+        </thead>
+        <tbody id="cuerpoTabla"></tbody>
+    </table>
+
+    <div id="carrito">
+        <h3>Carrito</h3>
+        <ul id="listaCarrito"></ul>
+        <p><strong>Total:</strong> $<span id="total">0</span></p>
+        <input type="text" id="cliente" placeholder="Nombre del cliente" />
+        <button class="btn" onclick="enviarPedido()">Enviar Pedido</button>
+    </div>
+
+    <script>
+        let productos = [];
+        let carrito = [];
+
+        async function cargarProductos() {
+            const response = await fetch("productos.json");
+            productos = await response.json();
+            renderTabla(productos);
+        }
+
+        function renderTabla(lista) {
+            const tbody = document.getElementById("cuerpoTabla");
+            tbody.innerHTML = "";
+            lista.forEach((p, i) => {
+                const fila = document.createElement("tr");
+                fila.innerHTML = `
+                    <td>${p.EAN}</td>
+                    <td>${p.Interno}</td>
+                    <td>${p.Descripción}</td>
+                    <td>$${p.Precio || 0}</td>
+                    <td>${p.Vencimiento || 'no aplica'}</td>
+                    <td><input type="number" id="cant_${i}" value="1"/></td>
+                    <td><button class="btn" onclick="agregarAlCarrito(${i})">Agregar</button></td>
+                `;
+                tbody.appendChild(fila);
+            });
+        }
+
+        function filtrarProductos() {
+            const query = document.getElementById("buscar").value.toLowerCase();
+            const filtrados = productos.filter(p =>
+                p.Descripción.toLowerCase().includes(query) ||
+                p.EAN.toString().includes(query) ||
+                p.Interno.toLowerCase().includes(query)
+            );
+            renderTabla(filtrados);
+        }
+
+        function agregarAlCarrito(index) {
+            const cantidad = parseInt(document.getElementById(`cant_${index}`).value);
+            if (isNaN(cantidad) || cantidad < 1) return;
+            const p = productos[index];
+            carrito.push({ ...p, Cantidad: cantidad });
+            actualizarCarrito();
+        }
+
+        function actualizarCarrito() {
+            const lista = document.getElementById("listaCarrito");
+            const total = document.getElementById("total");
+            lista.innerHTML = "";
+            let suma = 0;
+            carrito.forEach(item => {
+                const li = document.createElement("li");
+                const subtotal = (item.Precio || 0) * item.Cantidad;
+                suma += subtotal;
+                li.textContent = `${item.Descripción} x${item.Cantidad} ($${subtotal})`;
+                lista.appendChild(li);
+            });
+            total.textContent = suma;
+        }
+
+        function enviarPedido() {
+            const cliente = document.getElementById("cliente").value;
+            if (!cliente || carrito.length === 0) return alert("Complete nombre y agregue productos.");
+
+            const mensaje = carrito.map(p => `${p.Descripción} x${p.Cantidad}`).join("\n");
+            const total = document.getElementById("total").textContent;
+
+            emailjs.send("service_q06m7o8", "template_z5a44ua", {
+                client: cliente,
+                message: mensaje,
+                total: total
+            }).then(() => {
+                alert("Pedido enviado correctamente.");
+                carrito = [];
+                actualizarCarrito();
+            }, err => {
+                console.error(err);
+                alert("Error al enviar.");
+            });
+        }
+
+        cargarProductos();
+    </script>
+</body>
+</html>
