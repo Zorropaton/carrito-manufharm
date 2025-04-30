@@ -1,0 +1,2781 @@
+[
+  {
+    "ean": "7800007153500",
+    "interno": "10G004518M04",
+    "descripcion": "COLCHICINA 0,5MG X40 COMP",
+    "neto": 800,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "8713184148957",
+    "interno": "VET20",
+    "descripcion": "V-BRAVECTO PERRO 1.000MG 20-40 KG X1 COMP MAST",
+    "neto": 9999,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "78026711",
+    "interno": "105AD01",
+    "descripcion": "QUITACALLOS POMADA 5 G. ",
+    "neto": 944.6980392156862,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "7800068013195",
+    "interno": "000525",
+    "descripcion": "MELOXICAM [BE] 7,5 MG 15 COMP.",
+    "neto": 200,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "7804918402108",
+    "interno": "100316210R05",
+    "descripcion": "TOCALM JBE INF 15MG/5ML 100ML",
+    "neto": 700,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "7804620836215",
+    "interno": "153452015S01",
+    "descripcion": "SHAROF F 0,012% SOL OFT 15 ML",
+    "neto": 954,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063330075",
+    "interno": "100190610R05",
+    "descripcion": "TULOX 28MG/5 ML JBE INF 100 ML",
+    "neto": 1100,
+    "vence": "2025-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063330198",
+    "interno": "100226610R05",
+    "descripcion": "MINTAMOX 30MG/5ML JBE 100ML",
+    "neto": 990,
+    "vence": "2025-07-30 00:00:00"
+  },
+  {
+    "ean": 7804640560572,
+    "interno": "100318423D01",
+    "descripcion": "NISTATINA 100.000 UI UNG 15GR",
+    "neto": 559.3,
+    "vence": "2025-07-30 00:00:00"
+  },
+  {
+    "ean": "7800038042200",
+    "interno": "100145510H02",
+    "descripcion": "COBEFEN JBE 120 ML",
+    "neto": 2999,
+    "vence": "2025-07-30 00:00:00"
+  },
+  {
+    "ean": "7861073971177",
+    "interno": "195009010A03",
+    "descripcion": "FLAPEX 4% GTS 15ML",
+    "neto": 2500,
+    "vence": "2025-07-30 00:00:00"
+  },
+  {
+    "ean": "7800038000538",
+    "interno": "100509400D08",
+    "descripcion": "SANIGERMIN CARBON1%-AC SALICILICO0,5% PAN 100GR",
+    "neto": 500,
+    "vence": "2025-07-31 00:00:00"
+  },
+  {
+    "ean": "7800038000590",
+    "interno": "000502",
+    "descripcion": "SANIGERMIN COBRE 0,2%  100GR",
+    "neto": 600,
+    "vence": "2025-08-30 00:00:00"
+  },
+  {
+    "ean": "7502253073662",
+    "interno": "100000118A02",
+    "descripcion": "PHILLIPS X10 COMP",
+    "neto": 1588,
+    "vence": "2025-08-30 00:00:00"
+  },
+  {
+    "ean": "7804918500514",
+    "interno": "100203010R06",
+    "descripcion": "LEVORIGOTAX JBE 2,5MG/5ML 100ML",
+    "neto": 4500,
+    "vence": "2025-08-30 00:00:00"
+  },
+  {
+    "ean": "7800007120410",
+    "interno": "100070218A10",
+    "descripcion": "GLIBENCLAMIDA 5MG X60 COMP",
+    "neto": 509.9463633473803,
+    "vence": "2025-08-30 00:00:00"
+  },
+  {
+    "ean": "7800007807083",
+    "interno": "101N05",
+    "descripcion": "ZOPICLONA 7,5MGX30 COMP BE (LAB CHILE)",
+    "neto": 890,
+    "vence": "2025-08-31 00:00:00"
+  },
+  {
+    "ean": "7800007803924",
+    "interno": "100AN05",
+    "descripcion": "SINCRIS 10MGX 30COMP ",
+    "neto": 13900,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "8713184148940",
+    "interno": "VET21",
+    "descripcion": "V-BRAVECTO PERRO 1.400MG 40-56 KG X 1 COMP MAST",
+    "neto": 24616.196428571428,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7805750110435",
+    "interno": "100443423M02",
+    "descripcion": "BEPANTHOL UNG 30G",
+    "neto": 3500,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7800007142573",
+    "interno": "100D01",
+    "descripcion": "NISTATINA OVULOS 100.000 UI X 12",
+    "neto": 1870,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7801000001850",
+    "interno": "1001DMF",
+    "descripcion": "ALCOHOL 70° DIFEM HIGIENIZANTE MANOS 125 ML",
+    "neto": 756,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7804620835164",
+    "interno": "127438518M01",
+    "descripcion": "MELOXICAM 15MGX10 COMP BE",
+    "neto": 286.2273405049358,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7800018117369",
+    "interno": "125AD07",
+    "descripcion": "HIPOGLOS POMADA 20G. NF",
+    "neto": 972.75,
+    "vence": "2025-09-30 00:00:00"
+  },
+  {
+    "ean": "7804640561388",
+    "interno": "100449510J01",
+    "descripcion": "AZITROMICINA 200MG/5ML SUSP 15ML",
+    "neto": 1600,
+    "vence": "2025-10-01 00:00:00"
+  },
+  {
+    "ean": "7800060011656",
+    "interno": "100015540S02",
+    "descripcion": "OTICUM SOL OTO FCO 5ML",
+    "neto": 6400,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": "7800008000469",
+    "interno": "PERF53",
+    "descripcion": "BLISTEX BALS.LAB FPS15 CLASICO",
+    "neto": 1090,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": "7804620833580",
+    "interno": "100373310R05",
+    "descripcion": "AMBROXOL 30MG/5 ML JBE AD 100ML (OPKO)",
+    "neto": 870,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": 7800004501946,
+    "interno": "100335118N02",
+    "descripcion": "TAPSIN ROJ/CAF X12 COMP",
+    "neto": 446.6666666666667,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": "7800063130699",
+    "interno": "127002118R06",
+    "descripcion": "LORATADINA JBE 5MG/5ML 90ML",
+    "neto": 850,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": "7800007386526",
+    "interno": "100013918R01",
+    "descripcion": "NASTIFRIN COMP X10 COMP",
+    "neto": 980,
+    "vence": "2025-10-30 00:00:00"
+  },
+  {
+    "ean": "8713184148940",
+    "interno": "VET21",
+    "descripcion": "V-BRAVECTO PERRO 1.400MG 40-56 KG X 1 COMP MAST",
+    "neto": 24616.196428571428,
+    "vence": "2025-10-31 00:00:00"
+  },
+  {
+    "ean": "7804673040362",
+    "interno": "101AR06",
+    "descripcion": "CETIRIZINA CLORHIDRATO 10MG X 30 COMP",
+    "neto": 824.468085106383,
+    "vence": "2025-10-31 00:00:00"
+  },
+  {
+    "ean": "EAN",
+    "interno": "INTERNO",
+    "descripcion": "DESCRIPCION DEL PRODUCTO",
+    "neto": "NETO",
+    "vence": "VENCE"
+  },
+  {
+    "ean": "7800063000312",
+    "interno": "AERPEDMF",
+    "descripcion": "AEROCAMARA UNIVER. PED/AD",
+    "neto": 2036.658630665381,
+    "vence": "2029-03-30 00:00:00"
+  },
+  {
+    "ean": "4104480705199",
+    "interno": "10G025510R05",
+    "descripcion": "ABRILAR JBE 35MG/5ML 100ML",
+    "neto": 4211,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063116600",
+    "interno": "10G041718C08",
+    "descripcion": "AMLODIPINO 5MGX30 COMP BE.(MINTLAB)",
+    "neto": 496.10526315789474,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7804620833535",
+    "interno": "100000002J01",
+    "descripcion": "AMOXICILINA+A.CLAVULANICO [BE] [875+125] MG 14 COM.REC.(OPKO)",
+    "neto": 4548,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "3664798040579",
+    "interno": "100229510R05",
+    "descripcion": "BISOLVON JBE AD 8MG/5ML 125 ML",
+    "neto": 3228,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7800008020023",
+    "interno": "10G018623D06",
+    "descripcion": "BLISTEX CR LAB MED 6GR",
+    "neto": 1330,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800063330648",
+    "interno": "100224810R05",
+    "descripcion": "BRONTEC 35MG/5ML 100ML",
+    "neto": 1699,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "310742006247",
+    "interno": "100215823M02",
+    "descripcion": "CALORUB FTE POMO 35GR",
+    "neto": 3200,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800063110639",
+    "interno": "10G053118J01",
+    "descripcion": "CIPROFLOXACINO 500MGX6 COMP BE.(MINTLAB)",
+    "neto": 385,
+    "vence": "2029-09-30 00:00:00"
+  },
+  {
+    "ean": "7804918402054",
+    "interno": "10G019418D08",
+    "descripcion": "CLARAGINE 16 COMP",
+    "neto": 990,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800007128072",
+    "interno": "000023",
+    "descripcion": "CLORFENAMINA 4MGX20 COMP BE",
+    "neto": 187.90391061452513,
+    "vence": "2028-08-30 00:00:00"
+  },
+  {
+    "ean": "7804673040355",
+    "interno": "000005",
+    "descripcion": "DICLOFENACO 100MGX8 COM.LP(curaespring)",
+    "neto": 360,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7804620834426",
+    "interno": "100421218M01",
+    "descripcion": "DICLOFENACO SODICO 100 MG X 8 CAPS LP (OPKO)",
+    "neto": 395.93131922503727,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7800004509126",
+    "interno": "100271229A02",
+    "descripcion": "DISFRUTA CLASIC SAL SB (60)",
+    "neto": 3870,
+    "vence": "2027-08-25 00:00:00"
+  },
+  {
+    "ean": "7800004509119",
+    "interno": "100271329A02",
+    "descripcion": "DISFRUTA LIMON SAL SB (60)",
+    "neto": 3320,
+    "vence": "2027-09-21 00:00:00"
+  },
+  {
+    "ean": "7804614931445",
+    "interno": "193144518G04",
+    "descripcion": "DISILDEN 100MG 5COMP",
+    "neto": 1671.6,
+    "vence": "2027-11-30 00:00:00"
+  },
+  {
+    "ean": "7804614931438",
+    "interno": "100252418G04",
+    "descripcion": "DISILDEN 100MGX3 COMP",
+    "neto": 1209.6,
+    "vence": "2027-11-30 00:00:00"
+  },
+  {
+    "ean": "7800004032853",
+    "interno": "100320726M02",
+    "descripcion": "DOLORUB PARCHE CASPICO X 1 UNI",
+    "neto": 1240,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7794640170898",
+    "interno": "100267629A02",
+    "descripcion": "ENO REGULAR",
+    "neto": 3620,
+    "vence": "2026-05-31 00:00:00"
+  },
+  {
+    "ean": "7804633500721",
+    "interno": "1002D01",
+    "descripcion": "ETHONAZOL CREMA TOPICA 1%",
+    "neto": 300,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7804620834273",
+    "interno": "1T0042018A02",
+    "descripcion": "FAMOTIDINA 40MGX10 COMP (OPKO)",
+    "neto": 289.8,
+    "vence": "2026-04-29 00:00:00"
+  },
+  {
+    "ean": "7800068014703",
+    "interno": "10G020407R01",
+    "descripcion": "FISIOLIMP 0,9% SOLN NASAL 30ML",
+    "neto": 2630,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7800063370057",
+    "interno": "100371629R02",
+    "descripcion": "GENIOL DÍA 30XSOBRES",
+    "neto": 7300,
+    "vence": "2027-05-30 00:00:00"
+  },
+  {
+    "ean": 7800063000770,
+    "interno": "100270310R01",
+    "descripcion": "GENIOL FLU JBE 100 ML",
+    "neto": 2900,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": 7800063370064,
+    "interno": "100372029R02",
+    "descripcion": "GENIOL NOCHE 30XSOBRES",
+    "neto": 7300,
+    "vence": "2028-04-30 00:00:00"
+  },
+  {
+    "ean": "7800007771193",
+    "interno": "100123910R05",
+    "descripcion": "HIEDRIX 35MG/15ML JBE",
+    "neto": 1900,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7804620833498",
+    "interno": "100292510M01",
+    "descripcion": "IBUPROFENO 200MG/5 ML SUSP 100ML",
+    "neto": 890,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800007771353",
+    "interno": "116AE01M01",
+    "descripcion": "IBUPROFENO 600MGX20 COMP.(LAB CHILE)",
+    "neto": 576,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "0010742206011",
+    "interno": "100000123R01",
+    "descripcion": "INHALADOR MENTHOLATUM",
+    "neto": 2157.365844155844,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063111445",
+    "interno": "000014",
+    "descripcion": "KETOPROFENO T.U 200MGX10 COMP.(MINTLAB)",
+    "neto": 849.6939802835477,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800007810410",
+    "interno": "102AM01",
+    "descripcion": "KETOROLACO 10MGX10 COMP.(LAB CHILE)",
+    "neto": 466.59375,
+    "vence": "2026-01-31 00:00:00"
+  },
+  {
+    "ean": "7800007409249",
+    "interno": "10G051518N02",
+    "descripcion": "KITADOL 500MG X24 COMP",
+    "neto": 535,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800007808264",
+    "interno": "10010A06",
+    "descripcion": "LACTULOSA 66,7% SOL 200ML",
+    "neto": 3000.390155299246,
+    "vence": "2027-12-30 00:00:00"
+  },
+  {
+    "ean": 7804620834884,
+    "interno": "1T0048910R06",
+    "descripcion": "LOTADIN 2,5MG/5ML JBE 120 ML",
+    "neto": 1200,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": 7804620834488,
+    "interno": "190044018R06",
+    "descripcion": "LOTADIN 5MGX30 COMP",
+    "neto": 950,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7804673040447",
+    "interno": "100410N05",
+    "descripcion": "MELATONINA 3MGX30 CAPS(CURESPRING)",
+    "neto": 1056,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7504673040058",
+    "interno": "1400N05",
+    "descripcion": "Melatonina Cápsulas 3mg X30",
+    "neto": 1032,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": 7800063000800,
+    "interno": "100223918R06",
+    "descripcion": "NEOHYSTICLAR JBE 2,5MG/5ML 90ML",
+    "neto": 3200,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7501298223803",
+    "interno": "100366508A11",
+    "descripcion": "NEUROBION DC 10000 SOL INY X 3 JER PRE",
+    "neto": 16445.882352941175,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7803504404106",
+    "interno": "10G025910R05",
+    "descripcion": "PALTOMIEL JBE. AD. KNOP",
+    "neto": 1140.040180061395,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7800007142658",
+    "interno": "10G012920N02",
+    "descripcion": "PARACETAMOL 125MG INFX6 SUP",
+    "neto": 490,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7800007124326",
+    "interno": "100516N02",
+    "descripcion": "PARACETAMOL 500MGX16 COMP BE.(LAB CHILE)",
+    "neto": 195,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7800004369607",
+    "interno": "10G042929R02",
+    "descripcion": "TAPSIN LIMONADA DIAX60SOBRES 5GR",
+    "neto": 21999,
+    "vence": "2027-09-28 00:00:00"
+  },
+  {
+    "ean": "7804633500042",
+    "interno": "100BG03",
+    "descripcion": "TESTOSTERONA 250 MG/ML X 1 AMP.",
+    "neto": 11760,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800060015661",
+    "interno": "10GE12818R01",
+    "descripcion": "TRIO VAL 10 COMP",
+    "neto": 2526.1512605042017,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800060110496",
+    "interno": "10G024618R01",
+    "descripcion": "TRIO VAL DIA/NOCHE 20 COMP",
+    "neto": 3490,
+    "vence": "2028-04-30 00:00:00"
+  },
+  {
+    "ean": "8903726193556",
+    "interno": "11CA04C09",
+    "descripcion": "VALSARTAN 160MG 30 COMP",
+    "neto": 4650,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7730698014869",
+    "interno": "100GE2010A03",
+    "descripcion": "VIADIL FORTE GTS",
+    "neto": 2430,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7730698014852",
+    "interno": "10G025410A03",
+    "descripcion": "VIADIL GTS",
+    "neto": 2400,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "8713184229885",
+    "interno": "VET13",
+    "descripcion": "V-BRAVECTO 1M PERRO 45 MG 2-4,5 KG X 1 COMP MASTST",
+    "neto": 5292.75,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "8713184229922",
+    "interno": "VET119",
+    "descripcion": "VT BRAVECTO 1M PERRO 400 MG 20-40 KG X 1 COMP MAST",
+    "neto": 8359.199999999999,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "4005900998385",
+    "interno": "226DERM",
+    "descripcion": "ANTI-PIGMEN CONTORNO DE OJOS CREMA",
+    "neto": 24342.5,
+    "vence": "2027-03-04 00:00:00"
+  },
+  {
+    "ean": "4005900259646",
+    "interno": "204DERM",
+    "descripcion": "EUCERIN BABY BAÑO & SHAMPOO X 400ML",
+    "neto": 13612.5,
+    "vence": "2027-04-27 00:00:00"
+  },
+  {
+    "ean": "4005800024139",
+    "interno": "202DERM",
+    "descripcion": "EUCERIN LOCION REPARADORA 10% UREA 250 ML",
+    "neto": 17562.5,
+    "vence": "2027-08-07 00:00:00"
+  },
+  {
+    "ean": "3499320004473",
+    "interno": "191DMF",
+    "descripcion": "CETAPHIL PRO AC CREAM FPS30 118ML",
+    "neto": 19438.75,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "3499320012492",
+    "interno": "190DMF",
+    "descripcion": "CETAPHIL PRO AR CALM CONTROL CREMA CON COLOR HIDRATANTE DÍA FPS 30 X TUBO 50 ML",
+    "neto": 23560,
+    "vence": "2026-08-31 00:00:00"
+  },
+  {
+    "ean": "7806130008885",
+    "interno": "2021DMF",
+    "descripcion": "GUANTE EX. NITRILO L/P AZUL TRESOR XL  X 100 ",
+    "neto": 2851.9444444444443,
+    "vence": "2029-04-30 00:00:00"
+  },
+  {
+    "ean": "7806130008854",
+    "interno": "2006DMF",
+    "descripcion": "GUANTE NITRILO AZUL TALLA  S X100 U",
+    "neto": 2931.25,
+    "vence": "2029-07-30 00:00:00"
+  },
+  {
+    "ean": "7806130008878",
+    "interno": "2004DMF",
+    "descripcion": "GUANTE NITRILO AZUL TALLA L X100 U.",
+    "neto": 3077.5,
+    "vence": "2029-07-30 00:00:00"
+  },
+  {
+    "ean": "43D9CCICKBF4BM",
+    "interno": "2001DMF",
+    "descripcion": "GUANTE VINILO TALLA L X100U.",
+    "neto": 2244.5833333333335,
+    "vence": "2029-04-30 00:00:00"
+  },
+  {
+    "ean": "43D9CCICKBF4BQ",
+    "interno": "2003DMF",
+    "descripcion": "GUANTE VINILO TALLA S X100U.",
+    "neto": 1842.5,
+    "vence": "2028-03-30 00:00:00"
+  },
+  {
+    "ean": "7805633008927",
+    "interno": "JER3MLDMF",
+    "descripcion": "JER. MUNCARE  L LOCK 3ML 21GX1-1/2",
+    "neto": 42.5,
+    "vence": "2028-03-14 00:00:00"
+  },
+  {
+    "ean": "7805633008903",
+    "interno": "JER10MLDMF",
+    "descripcion": "JER. MUNCARE  L SLIP 10ML 21GX1-1/2",
+    "neto": 63.75,
+    "vence": "2029-06-30 00:00:00"
+  },
+  {
+    "ean": "7805633008910",
+    "interno": "JER20MLDMF",
+    "descripcion": "JER. MUNCARE  L SLIP 20ML 21GX1-1/2",
+    "neto": 78.75,
+    "vence": "2027-12-18 00:00:00"
+  },
+  {
+    "ean": "7805633008880",
+    "interno": "JER5MLDMF",
+    "descripcion": "JER. MUNCARE  L SLIP 5ML 21GX1-1/2",
+    "neto": 41.25,
+    "vence": "2027-12-17 00:00:00"
+  },
+  {
+    "ean": "7804918402405",
+    "interno": "2020DMF",
+    "descripcion": "LIFESTYLES SKYN EXT.LUB X 3",
+    "neto": 2687.5,
+    "vence": "2028-06-30 00:00:00"
+  },
+  {
+    "ean": "7804918450178",
+    "interno": "2009DMF",
+    "descripcion": "LIFESTYLES STUDDED ROUGH RIDER 12 UN. ",
+    "neto": 4087.5,
+    "vence": "2028-08-30 00:00:00"
+  },
+  {
+    "ean": "7804918450031",
+    "interno": "211105500DMF",
+    "descripcion": "LIFESTYLES STUDDED ROUGH RIDER X3",
+    "neto": 1380,
+    "vence": "2028-10-30 00:00:00"
+  },
+  {
+    "ean": "7804918450154",
+    "interno": "2008DMF",
+    "descripcion": "LIFESTYLES ULTRA SENSIBLE LUBR. 12 UN. ",
+    "neto": 3625,
+    "vence": "2028-10-30 00:00:00"
+  },
+  {
+    "ean": "7804918450017",
+    "interno": "211105300DMF",
+    "descripcion": "LIFESTYLES ULTRA SENSIBLE NUDA X3",
+    "neto": 1380,
+    "vence": "2029-03-30 00:00:00"
+  },
+  {
+    "ean": "7804918450165",
+    "interno": "PERF100",
+    "descripcion": "LIFESTYLES VIBRA-RIBBED STIMULA X12",
+    "neto": 3625,
+    "vence": "2028-12-30 00:00:00"
+  },
+  {
+    "ean": "7804918450024",
+    "interno": "211105401DMF",
+    "descripcion": "LIFESTYLES VIBRA-RIBBED STIMULA X3",
+    "neto": 1380,
+    "vence": "2028-12-30 00:00:00"
+  },
+  {
+    "ean": "0739802462364",
+    "interno": "238326900DMF",
+    "descripcion": "OXIMETRO DE PULSO LOVELIFE",
+    "neto": 11387.5,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7800044000102",
+    "interno": "15GDMF",
+    "descripcion": "PASTA LASSAR 30GR",
+    "neto": 1005.375,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7804676070076",
+    "interno": "200267905DMF",
+    "descripcion": "PRESERVATIVO SENSORPLUS X 3UNI ULTRA SENSIBLE",
+    "neto": 567.1,
+    "vence": "2029-07-31 00:00:00"
+  },
+  {
+    "ean": "7804676070045",
+    "interno": "021DMF",
+    "descripcion": "PRESERVATIVO SENSORPLUS X 3UNI. DOTTED",
+    "neto": 567.1,
+    "vence": "2028-05-30 00:00:00"
+  },
+  {
+    "ean": "780476070144",
+    "interno": "200267902DMF",
+    "descripcion": "SENSOR PLUS PRESERV EXTRA RESISTENTE",
+    "neto": 567.1,
+    "vence": "2029-07-30 00:00:00"
+  },
+  {
+    "ean": "7805633018353",
+    "interno": "10003DMF",
+    "descripcion": "TERMOMETRO DIGITAL F.SET ",
+    "neto": 1437.5,
+    "vence": "2029-04-30 00:00:00"
+  },
+  {
+    "ean": "7800060005723",
+    "interno": "100D08",
+    "descripcion": "AB ANTISEPTICO(AB CLORHEXIDINA) 12 COMP MAST",
+    "neto": 2388,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7800063110493",
+    "interno": "000003",
+    "descripcion": "AC. MEFENAMICO 500MGX10 COMP (MINTLAB)",
+    "neto": 366.15568376830004,
+    "vence": "2029-03-30 00:00:00"
+  },
+  {
+    "ean": "7800007112743",
+    "interno": "1000J01",
+    "descripcion": "ACICLOVIR  200 MG 25 COMP.(LAB CHILE)",
+    "neto": 2000.3999999999999,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7804673040393",
+    "interno": "1000001ABJ05",
+    "descripcion": "ACICLOVIR 400MGX35 COMP BE",
+    "neto": 2227.6802347188263,
+    "vence": "2027-01-31 00:00:00"
+  },
+  {
+    "ean": "7800063160016",
+    "interno": "10G000823D06",
+    "descripcion": "ACICLOVIR 5% CR 5GR",
+    "neto": 492,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800007155719",
+    "interno": "000843",
+    "descripcion": "ACICLOVIR 5% CREMA POMO 15G X 1 UNID.(LAB CHILE)",
+    "neto": 742.8,
+    "vence": "2026-08-31 00:00:00"
+  },
+  {
+    "ean": "7804650885894",
+    "interno": "1003D06",
+    "descripcion": "ACICLOVIR 5% CREMA X 15 G (ASCEND)",
+    "neto": 510,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800068030031",
+    "interno": "000844",
+    "descripcion": "ACIDO ACETILSALICILICO 100 MG X 100 COMP. MAST.",
+    "neto": 2118,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7804620835492",
+    "interno": "1T0055118N02",
+    "descripcion": "ALIVIDOL 1GRX20 COMP.(opko)",
+    "neto": 1199.3999999999999,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7804918410325",
+    "interno": "000846",
+    "descripcion": "ALLEDRYL D JBE. X 120 ML",
+    "neto": 4652.4,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063110707",
+    "interno": "100BC01",
+    "descripcion": "AMIODARONA HCL [BE] 200 MG X 20 COMP (MINTLAB)",
+    "neto": 2382.3999999999996,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7804620834914",
+    "interno": "000221",
+    "descripcion": "AMLODIPINO  5 MG X  30 COMP.(OPKO)",
+    "neto": 696,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7804650880066",
+    "interno": "000812",
+    "descripcion": "AMLODIPINO 10 MG X 30 COMP.(ASCEND)",
+    "neto": 564,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800063112022",
+    "interno": "100073818C08",
+    "descripcion": "AMLODIPINO 10MGX30 COMP (MINTLAB)",
+    "neto": 444,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7804673040065",
+    "interno": "200J01",
+    "descripcion": "AMOXICILINA 250MG/5ML SUSP 60ML",
+    "neto": 780,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7804620833412",
+    "interno": "100455610J01",
+    "descripcion": "AMOXICILINA 500MG JBE60ML",
+    "neto": 1309.1202713729208,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7804673040409",
+    "interno": "100350J01",
+    "descripcion": "AMOXICILINA 500MGX21 CAP (CURAESPRING)",
+    "neto": 1046.8075471698112,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800063110547",
+    "interno": "100GE3418J01",
+    "descripcion": "AMOXICILINA 750MGX10 COMP.(MINTLAB)",
+    "neto": 1228.2421052631578,
+    "vence": "2029-04-30 00:00:00"
+  },
+  {
+    "ean": "7804620833900",
+    "interno": "000724",
+    "descripcion": "AMOXICILINA+A.CLAVULANICO [BE] [500+125] MG 20 COMP.REC.(OPKO)",
+    "neto": 3837.6,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7804900000961",
+    "interno": "000253",
+    "descripcion": "ANACIN CLASICO X32 COMP",
+    "neto": 2625.828,
+    "vence": "2027-01-25 00:00:00"
+  },
+  {
+    "ean": "7804900000947",
+    "interno": "000252",
+    "descripcion": "ANACIN MAX X32 COMP",
+    "neto": 3064.3199999999997,
+    "vence": "2027-01-28 00:00:00"
+  },
+  {
+    "ean": "7804900000930",
+    "interno": "102M01",
+    "descripcion": "ANACIN MAX X8 COMP",
+    "neto": 948,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7795373002319",
+    "interno": "1003D11",
+    "descripcion": "ANAGEN 5% ESP.DERM.60 G.",
+    "neto": 13884,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "8903726184233",
+    "interno": "000707",
+    "descripcion": "ANASTROZOL 1 MG X 30 COMP. REC.",
+    "neto": 5808,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7800018188317",
+    "interno": "100417118G03",
+    "descripcion": "ANOVULATORIOS MICRO 21 COMP",
+    "neto": 990,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800060130647",
+    "interno": "100229018A02",
+    "descripcion": "ANTIAX X6 COMP MAST",
+    "neto": 1002.5116279069767,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7804650880219",
+    "interno": "102AN05",
+    "descripcion": "ANZAP OLANZAPINA 10 MG X 30 COMP. REC.",
+    "neto": 7494,
+    "vence": "2026-07-31 00:00:00"
+  },
+  {
+    "ean": "7803504005808",
+    "interno": "100013323M02",
+    "descripcion": "ARNIKADERM 10% GEL 50G",
+    "neto": 3780,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7793640216537",
+    "interno": "100241618B01",
+    "descripcion": "ASPIRINA 100MGX98 COMP",
+    "neto": 5016,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": "7793640211259",
+    "interno": "100245618N02",
+    "descripcion": "ASPIRINA 500MGX100 COMP",
+    "neto": 4324.536806722689,
+    "vence": "2027-11-30 00:00:00"
+  },
+  {
+    "ean": "7793640002543",
+    "interno": "10G040618N02",
+    "descripcion": "ASPIRINA FORTE 650 MG X 80 COMP",
+    "neto": 4335.599999999999,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "7800007801555",
+    "interno": "102AC10",
+    "descripcion": "ATORVASTATINA 20MG 30COMP BE",
+    "neto": 462,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7804650881520",
+    "interno": "104AC10",
+    "descripcion": "ATORVASTATINA 80MG 30COMP BE",
+    "neto": 4308,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7804640561364",
+    "interno": "000847",
+    "descripcion": "AZITROMICINA 200 MG / 5 ML SUSP. ORAL X 30 ML(hospifarma)",
+    "neto": 3247.2,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800063001647",
+    "interno": "100301618J01",
+    "descripcion": "AZITROMICINA 500MG X 6COMP.(MINTLAB)",
+    "neto": 1159.2,
+    "vence": "2026-02-26 00:00:00"
+  },
+  {
+    "ean": "7800063160085",
+    "interno": "100172723D06",
+    "descripcion": "BACITRACINA+NEOMICINA UNG 15GR.(MINTLAB)",
+    "neto": 793.8,
+    "vence": "2028-05-30 00:00:00"
+  },
+  {
+    "ean": "7800028001873",
+    "interno": "10001C01",
+    "descripcion": "BAGOMIGRAL COM.2.5MG.",
+    "neto": 8256,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800068010415",
+    "interno": "000222",
+    "descripcion": "BALSAMO ANALGESICO UNGUENTO 15 G. ",
+    "neto": 1593.6,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "7803501004057",
+    "interno": "1ET505029M09",
+    "descripcion": "BEAUTIP-D 30SATCHET (Ca/COLG/Mg/VITD)",
+    "neto": 8125.44,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7800068014147",
+    "interno": "1010M01",
+    "descripcion": "BEDIATIL FORTE 200 MG/5ML S.O. 100 ML (IBUPROFENO)",
+    "neto": 2352,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800007143112",
+    "interno": "160D07",
+    "descripcion": "BETAMETASONA 0,05 % CR. X 15 G (LCH)",
+    "neto": 735.6,
+    "vence": "2028-01-31 00:00:00"
+  },
+  {
+    "ean": "7800007155986",
+    "interno": "1000D07",
+    "descripcion": "BETAMETASONA 0,05% X 15G UNG.(LCH)",
+    "neto": 1723.2,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "780467304256",
+    "interno": "000825",
+    "descripcion": "BETAMETASONA CR 0,05% 15 GR.(CURAESPRING)",
+    "neto": 300,
+    "vence": "2027-08-31 00:00:00"
+  },
+  {
+    "ean": "7804673040256",
+    "interno": "100000123D07",
+    "descripcion": "BETAMETASONA CR 15GR",
+    "neto": 270,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7891317006396",
+    "interno": "101CN07",
+    "descripcion": "BETINA 16 MG 30 COMP. [BE]",
+    "neto": 13140,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7804918410608",
+    "interno": "132AR06",
+    "descripcion": "BEVITEX FORTE 10 MG / ML SOL. GTS. ORAL X 20 ML",
+    "neto": 2034,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "737186233112",
+    "interno": "101CA12",
+    "descripcion": "BISGLICINATO DE MAGNESIO X 90 CAPS",
+    "neto": 6300,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800058535379",
+    "interno": "100254810R05",
+    "descripcion": "BISOLVON JBE INF 4MG/5ML 120ML",
+    "neto": 3260.334069168506,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7804673040324",
+    "interno": "100AC07",
+    "descripcion": "BISOPROLOL 2,5 MG X 30 COMP (CURAESPRING)",
+    "neto": 1548,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800007805515",
+    "interno": "000506",
+    "descripcion": "BISOPROLOL 2,5 MG X 30 COMP.( LAB CHILE)",
+    "neto": 1938,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7804673040331",
+    "interno": "101AC07",
+    "descripcion": "BISOPROLOL 5MG X 30 COMP.(CURAESPRING)",
+    "neto": 2028,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063001524",
+    "interno": "100395810R05",
+    "descripcion": "BROMFIN JBE 8MG/5ML 100ML",
+    "neto": 2240.5347593582887,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "8903831007588",
+    "interno": "000239",
+    "descripcion": "BROMHEXINA JBE. 4MG",
+    "neto": 840,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800038041371",
+    "interno": "100308110R05",
+    "descripcion": "BRONTAL JBE IF 100ML",
+    "neto": 3912,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7800063310862",
+    "interno": "100001118D08",
+    "descripcion": "BUCOGERM 10 COMP",
+    "neto": 1092,
+    "vence": "2028-06-30 00:00:00"
+  },
+  {
+    "ean": "7793640211464",
+    "interno": "100022618N02",
+    "descripcion": "CAFIASPIRINA X100 COMP",
+    "neto": 4660.116,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "310742006230",
+    "interno": "100181723M02",
+    "descripcion": "CALORUB NVA FORMULA POMO 35GR",
+    "neto": 2988.72,
+    "vence": "2027-01-31 00:00:00"
+  },
+  {
+    "ean": "7891106000185",
+    "interno": "100027027D01",
+    "descripcion": "CANESTEN 1% CR 20GR",
+    "neto": 2292.6545454545453,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7800018000336",
+    "interno": "000849",
+    "descripcion": "CARBAMAZEPINA 200 MG X 20 COMP.",
+    "neto": 946.8,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7800044000409",
+    "interno": "10G040118A07",
+    "descripcion": "CARBON SULFAGUANIDINA 100 COMP",
+    "neto": 3781.2,
+    "vence": "2027-09-27 00:00:00"
+  },
+  {
+    "ean": "7800044000126",
+    "interno": "141100218A07",
+    "descripcion": "CARBON SULFAGUANIDINA 20COMP",
+    "neto": 1226.268,
+    "vence": "2027-12-30 00:00:00"
+  },
+  {
+    "ean": "7793640216377",
+    "interno": "000524",
+    "descripcion": "CARDIOASPIRINA-100EC 100 MG 20 COMP",
+    "neto": 3660,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7800007804198",
+    "interno": "100372118C07",
+    "descripcion": "CARVEDILOL 12,5MG 30COMP BE",
+    "neto": 1116,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7800018129228",
+    "interno": "000850",
+    "descripcion": "CEFADROXILO 500 MG X 8 CAPS.(ANDROMACO)",
+    "neto": 1370.030769230769,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063120874",
+    "interno": "10G003118J01",
+    "descripcion": "CEFADROXILO 500MGX8 CAP BE.(mintlab)",
+    "neto": 955.5622641509433,
+    "vence": "2028-10-31 00:00:00"
+  },
+  {
+    "ean": 7800038041210,
+    "interno": "002N02",
+    "descripcion": "CEFALMIN 10 COMP",
+    "neto": 766.7542234332424,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7804673040126",
+    "interno": "1PV021018M01",
+    "descripcion": "CELECOXIB 200 MG 10 CAP",
+    "neto": 612,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7804673040133",
+    "interno": "1PV022018M01",
+    "descripcion": "CELECOXIB 200 MG 30 CAP",
+    "neto": 1201.2,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7804900000503",
+    "interno": "127453418A11",
+    "descripcion": "CENTRUM HOMBRE 30 COMP REC",
+    "neto": 6747.873825503356,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7804900000763",
+    "interno": "100453318A11",
+    "descripcion": "CENTRUM MINI X 30 COMP.",
+    "neto": 5064.142040816326,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7804900000480",
+    "interno": "127453618A11",
+    "descripcion": "CENTRUM MUJER 30 COMP REC",
+    "neto": 6017.94,
+    "vence": "2026-11-14 00:00:00"
+  },
+  {
+    "ean": "7804900000824",
+    "interno": "180A11",
+    "descripcion": "CENTRUM MUJER X 60 COMP. REC.",
+    "neto": 15330.425806451613,
+    "vence": "2026-08-08 00:00:00"
+  },
+  {
+    "ean": "7804900000770",
+    "interno": "199453318A11",
+    "descripcion": "CENTRUM MULTIVITAMINICO 30COM",
+    "neto": 4645.472727272727,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7804900000831",
+    "interno": "108AA11",
+    "descripcion": "CENTRUM SILVER X 30 COMP REC",
+    "neto": 8280,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800007746320",
+    "interno": "101M03",
+    "descripcion": "CICLOBENZAPRINA 10MGX20 COMP.(LAB CHILE)",
+    "neto": 485.34193548387094,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7800063000404",
+    "interno": "1001N06",
+    "descripcion": "CITALOPRAM 20MG X 30 COMP",
+    "neto": 1188,
+    "vence": "2028-01-30 00:00:00"
+  },
+  {
+    "ean": "737186233181",
+    "interno": "220BA12",
+    "descripcion": "CITRATO DE MAGNESIO 400 MG 30 CAPS",
+    "neto": 2028,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "737186232993",
+    "interno": "103BA12",
+    "descripcion": "CITRATO DE MAGNESIO 400 MG 90 CAPS",
+    "neto": 4814.4,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7800018110196",
+    "interno": "120GS01",
+    "descripcion": "CLARIMIR 0,012% SOLUCION OFTALMICA 15 ML [0,6 MG/5ML] (NAFAZOLINA)",
+    "neto": 2853.6,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800041040873",
+    "interno": "100GE3818J01",
+    "descripcion": "CLARITROMICINA 500MGX14 COMP",
+    "neto": 2820,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7804640560428",
+    "interno": "100281023D07",
+    "descripcion": "CLOBETASOL 0,05% UNG 25GR",
+    "neto": 504,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "7800063110684",
+    "interno": "001",
+    "descripcion": "CLONIXINATO DE LISINA 125MGX10 COMP (MINTLAB)",
+    "neto": 661.2499999999999,
+    "vence": "2028-06-30 00:00:00"
+  },
+  {
+    "ean": "7804620834648",
+    "interno": "100453115S01",
+    "descripcion": "CLORANFENICOL 0,5%  SOL OFT 10ML",
+    "neto": 719.3414316702821,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7804673040072",
+    "interno": "100AA01",
+    "descripcion": "CLORHEXIDINA GLUCONATO COLUTORIO 0,12%",
+    "neto": 1644,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800068030451",
+    "interno": "1001D01",
+    "descripcion": "CLOTRIMAZOL 1% X 20ML SOL.TOP",
+    "neto": 998.4,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7804673040263",
+    "interno": "201D01",
+    "descripcion": "CLOTRIMAZOL CR 20GR",
+    "neto": 324,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7804673040218",
+    "interno": "200D01",
+    "descripcion": "CLOTRIMAZOL/BETAMETASONA CR 15GR",
+    "neto": 390.32240463411193,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "900100100092",
+    "interno": "100M09",
+    "descripcion": "COLLAGEN 500 MG 60 CAPS.",
+    "neto": 3273.6,
+    "vence": "2026-12-31 00:00:00"
+  },
+  {
+    "ean": "7794640172731",
+    "interno": "10017M03",
+    "descripcion": "COREGA MAX FIJACION + SELLADO 70GR",
+    "neto": 9888,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7794640171758",
+    "interno": "10037M03",
+    "descripcion": "COREGA SIN SABOR 70GR",
+    "neto": 10074,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800063130125",
+    "interno": "1005J01",
+    "descripcion": "COTRIMOXAZOL 200/40MG/5ML SUSP ORAL 100ML",
+    "neto": 1363.8146341463414,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7804673040294",
+    "interno": "154329618R06",
+    "descripcion": "DESLORATADINA 5MG 30COMP",
+    "neto": 1020,
+    "vence": "2026-12-31 00:00:00"
+  },
+  {
+    "ean": "7800060007635",
+    "interno": "100034618A07",
+    "descripcion": "DIAREN 20 COMP",
+    "neto": 4790.4,
+    "vence": "2029-09-30 00:00:00"
+  },
+  {
+    "ean": "7800007803757",
+    "interno": "000851",
+    "descripcion": "DICLOFENACO 15 MG / ML  SUSP. ORAL GTS. X 20 ML",
+    "neto": 1159.2,
+    "vence": "2026-08-31 00:00:00"
+  },
+  {
+    "ean": "7804620832170",
+    "interno": "100215418M01",
+    "descripcion": "DICLOFENACO 50MGX10 COMP.(LCH)",
+    "neto": 252,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800061001229",
+    "interno": "000853",
+    "descripcion": "DICLOFENACO SODICO 75 MG / 3 ML SOL. INY. X 5 AMP.(BIOSANO)",
+    "neto": 2282.4,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800057001486",
+    "interno": "100155023D11",
+    "descripcion": "DICLOTAREN GEL 1,16% 30GR",
+    "neto": 942,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800063260013",
+    "interno": "100206123D11",
+    "descripcion": "DICOGEL GEL TOPICO 1,16%",
+    "neto": 1296,
+    "vence": "2028-02-28 00:00:00"
+  },
+  {
+    "ean": "7804614931421",
+    "interno": "100146118G04",
+    "descripcion": "DISILDEN 100MGX10 COMP",
+    "neto": 3020.4,
+    "vence": "2027-01-31 00:00:00"
+  },
+  {
+    "ean": "7804614931629",
+    "interno": "100150318G04",
+    "descripcion": "DISILDEN 50MGX10 COMP",
+    "neto": 2416.850704225352,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7841141004396",
+    "interno": "120AM01",
+    "descripcion": "DOLGENAL SL 30 MG 4 COMPRIMIDOS",
+    "neto": 7232.4,
+    "vence": "2026-08-19 00:00:00"
+  },
+  {
+    "ean": "7800004508594",
+    "interno": "100257723M02",
+    "descripcion": "DOLORUB 5% CR 45GR",
+    "neto": 2404.334328358209,
+    "vence": "2026-01-30 00:00:00"
+  },
+  {
+    "ean": "7800007407627",
+    "interno": "100000418A03",
+    "descripcion": "DOLOSPAM 15 COMP",
+    "neto": 1626.2943396226415,
+    "vence": "2207-04-30 00:00:00"
+  },
+  {
+    "ean": "7804620832835",
+    "interno": "100096018A03",
+    "descripcion": "DOMPERIDONA 10 MGX20 COMP BE(opko)",
+    "neto": 444.12,
+    "vence": "2028-04-30 00:00:00"
+  },
+  {
+    "ean": "8903726198674",
+    "interno": "1301N03",
+    "descripcion": "DULOXETINA 30 MG X 28 CAPS REC ENT",
+    "neto": 3204,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800018001166",
+    "interno": "100C09",
+    "descripcion": "ENALAPRIL 10MGX20 COMP",
+    "neto": 252,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7794640170911",
+    "interno": "100267529A02",
+    "descripcion": "ENO LIMON",
+    "neto": 3780,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7804679600034",
+    "interno": "100256518A07",
+    "descripcion": "ESANCOL 10 COMP",
+    "neto": 1582.8,
+    "vence": "2027-05-30 00:00:00"
+  },
+  {
+    "ean": "7804620834433",
+    "interno": "100470718N06",
+    "descripcion": "ESCITALOPRAM 10MG 30COMP.(OPKO)",
+    "neto": 869.4,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "8903726193389",
+    "interno": "1002N06",
+    "descripcion": "ESCITALOPRAM 20 MG X 30 COMP. REC (SEVEN)",
+    "neto": 3336,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7804620836307",
+    "interno": "100393118A02",
+    "descripcion": "ESOMEPRAZOL 40MGX30 COMP (opko)",
+    "neto": 2724,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800034507567",
+    "interno": "100405418C03",
+    "descripcion": "ESPIRONOLACTONA 25 MGX20 COMP BE",
+    "neto": 729.6923076923077,
+    "vence": "2026-01-30 00:00:00"
+  },
+  {
+    "ean": "7804653720574",
+    "interno": "1301A11",
+    "descripcion": "ETOVITAE 60 MG X 14 COMP REC",
+    "neto": 3720,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7501298222592",
+    "interno": "10GE16318H03",
+    "descripcion": "EUTIROX 25 MCG X 50 COMP",
+    "neto": 7546.898444799128,
+    "vence": "2026-12-31 00:00:00"
+  },
+  {
+    "ean": "7501298222615",
+    "interno": "100002218H03",
+    "descripcion": "EUTIROX 75 MCG X 50 COMP",
+    "neto": 8542.90909090909,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800063330341",
+    "interno": "100081807R01",
+    "descripcion": "FACIMIN 0,05% SP NAS 10ML",
+    "neto": 4251.496296296296,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7800007119322",
+    "interno": "120BA02",
+    "descripcion": "FAMOTIDINA [BE] 20 MG 20 COMP.(CHILE)",
+    "neto": 639.6,
+    "vence": "2028-01-31 00:00:00"
+  },
+  {
+    "ean": "7800007119407",
+    "interno": "000012",
+    "descripcion": "FAMOTIDINA 40MGX10 COMP",
+    "neto": 299.84233576642333,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7804614931865",
+    "interno": "100387718R01",
+    "descripcion": "FINAGRIP 10 COMP",
+    "neto": 1268.3999999999999,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": "7800050003395",
+    "interno": "1003D01",
+    "descripcion": "FINDER 2% SHAMPOO X 100ML",
+    "neto": 6012,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "737186233044",
+    "interno": "101M09",
+    "descripcion": "FISH-OIL 1000 MG 30 CAPS.BDAS. [CNP]",
+    "neto": 3595.2,
+    "vence": "2026-12-31 00:00:00"
+  },
+  {
+    "ean": "7804673040287",
+    "interno": "1200J01",
+    "descripcion": "FLUCLOXACILINA 500 MG X 12 CAPS.",
+    "neto": 1435.2,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": "7800063001760",
+    "interno": "10018N06",
+    "descripcion": "FLUOXETINA 20MGX20 COMP (MINTLAB)",
+    "neto": 372,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7804650882947",
+    "interno": "1AA072C10",
+    "descripcion": "FORLIP 10 MG",
+    "neto": 3084,
+    "vence": "2026-01-30 00:00:00"
+  },
+  {
+    "ean": 7800018000374,
+    "interno": "100068218C03",
+    "descripcion": "FUROSEMIDA 40 MGX12 COMP",
+    "neto": 292.8,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "5000158069633",
+    "interno": "100A02",
+    "descripcion": "GAVISCON SACHET MENTA 10 ML X12",
+    "neto": 5011.2,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800044002069",
+    "interno": "100326323A01",
+    "descripcion": "GELCAIN  GEL 2% 30GR",
+    "neto": 1888.8,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800068031854",
+    "interno": "1200C10",
+    "descripcion": "GEMFIBROZILO 600 MG X 30 COMP.",
+    "neto": 2376,
+    "vence": "2027-10-30 00:00:00"
+  },
+  {
+    "ean": "7800063000015",
+    "interno": "100299018R01",
+    "descripcion": "GENIOL FLU DN 15+5 COMP",
+    "neto": 1536,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800050002794",
+    "interno": "1200N02",
+    "descripcion": "GESIDOL 120 MG / 5 ML JBE. X 100 ML",
+    "neto": 3109.2,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": 7891721028861,
+    "interno": "100275118A10",
+    "descripcion": "GLAFORNIL XR 1000MG 30COMP",
+    "neto": 21230.45623591285,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800020032110",
+    "interno": "103C09",
+    "descripcion": "GUTRON 5 MG 10 COMP.",
+    "neto": 15439.885714285714,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7809561400945",
+    "interno": "1000V03",
+    "descripcion": "HEEL NEUREXAN 50 COMPRIMIDOS SUBLINGUALES",
+    "neto": 13252.8,
+    "vence": "2029-03-31 00:00:00"
+  },
+  {
+    "ean": "7800007120847",
+    "interno": "101AC03",
+    "descripcion": "HIDROCLOROTIAZIDA 50 MG X 20 COMP",
+    "neto": 531.2727272727273,
+    "vence": "2027-10-30 00:00:00"
+  },
+  {
+    "ean": "7804640561074",
+    "interno": "1080A07",
+    "descripcion": "HIDROCORTISONA 1 % CR. X 15 G",
+    "neto": 1308,
+    "vence": "2027-03-31 00:00:00"
+  },
+  {
+    "ean": "7804620833504",
+    "interno": "100353010M01",
+    "descripcion": "IBUPROFENO 100MG/5ML SUSP 100ML",
+    "neto": 942,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "7800007771278",
+    "interno": "180M01",
+    "descripcion": "IBUPROFENO 400MGX20 COMP (CHILE)",
+    "neto": 550.62,
+    "vence": "2028-01-30 00:00:00"
+  },
+  {
+    "ean": "7804620834099",
+    "interno": "000019",
+    "descripcion": "IBUPROFENO 400MGX20 COMP (OPKO)",
+    "neto": 374.4954385745745,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7804650880028",
+    "interno": "000004",
+    "descripcion": "IBUPROFENO 600MGX20 COMP (ASCEND)",
+    "neto": 504,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800004002146",
+    "interno": "100391318A07",
+    "descripcion": "IMECOL AD X16 COMP",
+    "neto": 2880,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "4048846023049",
+    "interno": "100KA10",
+    "descripcion": "JARDIANCE 10 MG X 30 COMP",
+    "neto": 27188,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800075200106",
+    "interno": "1300A01",
+    "descripcion": "KALMAFTA GEL ORAL X 20 GR",
+    "neto": 3444,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7861073971160",
+    "interno": "110AR02",
+    "descripcion": "KALMAFTA GEL x 20G (ANDROMACO)",
+    "neto": 3178.14,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063120263",
+    "interno": "000020",
+    "descripcion": "KETOPROFENO 50MGX20 CAP BE (MINTLAB)",
+    "neto": 726,
+    "vence": "2029-06-30 00:00:00"
+  },
+  {
+    "ean": "7800007711458",
+    "interno": "102N02",
+    "descripcion": "KITADOL INF 160MG X16 COMP",
+    "neto": 1493.3999999999999,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7804620835645",
+    "interno": "102XS01",
+    "descripcion": "LAGRIMAS ARTIF.0.5% X 15ML SOL.OFT",
+    "neto": 850.2666666666667,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7800007803887",
+    "interno": "100419118A02",
+    "descripcion": "LANSOPRAZOL 30MGX30 CAPS",
+    "neto": 970.8,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7803504000544",
+    "interno": "100285023M02",
+    "descripcion": "LEFKAFLAM CR 50G",
+    "neto": 3485.142857142857,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "8903726192337",
+    "interno": "000858",
+    "descripcion": "LEVOCETIRIZINA 5 MG 30 COMP. REC(SEVEN PHARMA)",
+    "neto": 1452,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800046005365",
+    "interno": "000528",
+    "descripcion": "LEVOXIN 750 MG 10 COMP. ",
+    "neto": 8140.799999999999,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800007118783",
+    "interno": "000022",
+    "descripcion": "LOPERAMIDA 2MGX6 COMP ( lab chile)",
+    "neto": 324.33096774193547,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800007649126",
+    "interno": "000826",
+    "descripcion": "LORATADINA 10 MG 30 COMP.(LAB CHILE)",
+    "neto": 367.72363636363633,
+    "vence": "2026-12-31 00:00:00"
+  },
+  {
+    "ean": 7800007679895,
+    "interno": "100372818C09",
+    "descripcion": "LOSARTAN 50 MGX30 COMP",
+    "neto": 561.6,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7804671180138",
+    "interno": "1005A11",
+    "descripcion": "MAGNESIO + ZINC X 20 TABLETAS EFERV. GERMAN ENERGY",
+    "neto": 2076,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7800044000256",
+    "interno": "000266",
+    "descripcion": "MANTECA DE CACAO SABOR NARANJA",
+    "neto": 699.6,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7800046004849",
+    "interno": "100162518R06",
+    "descripcion": "MAREAMIN 100MGX20 COMP",
+    "neto": 2724.951219512195,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7803501004422",
+    "interno": "1010N05",
+    "descripcion": "MELATONINA  GOTAS 3MGX30 ML CIRCALIFE",
+    "neto": 3828,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7803504000254",
+    "interno": "155N05",
+    "descripcion": "MELIPASS 127,5 MG - 127,5 MG X 60 CAPS.",
+    "neto": 3190.7999999999997,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7804620835164",
+    "interno": "127438518M01",
+    "descripcion": "MELOXICAM 15MGX10 COMP BE",
+    "neto": 343.4728086059229,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "78037830",
+    "interno": "000006",
+    "descripcion": "MENTHOLATUM 12 GR",
+    "neto": 546.4948640483384,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800044002007",
+    "interno": "1002N02",
+    "descripcion": "METAMIZOL SODICO 300MG X 300 COMP",
+    "neto": 5808,
+    "vence": "2027-10-30 00:00:00"
+  },
+  {
+    "ean": "7804673040386",
+    "interno": "104BA10",
+    "descripcion": "METFORMINA 1000MG X30 COMP",
+    "neto": 1908,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800018000664",
+    "interno": "000530",
+    "descripcion": "METFORMINA 850MGX60 COMP",
+    "neto": 2190.4978165938865,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7800068013508",
+    "interno": "000526",
+    "descripcion": "METROPAST 500 MG X 10 COMP.(PASTEUR)",
+    "neto": 4442.618181818181,
+    "vence": "2028-04-30 00:00:00"
+  },
+  {
+    "ean": "7800028000357",
+    "interno": "000001",
+    "descripcion": "MIGRANOL 10 COMP",
+    "neto": 1140,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800046004610",
+    "interno": "100BM03",
+    "descripcion": "MIO RELAX 10 MG X 20 COMP REC",
+    "neto": 1555.2,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800060009721",
+    "interno": "2002R05",
+    "descripcion": "MUXOL 30 MG X 20 COMP.",
+    "neto": 5872.199879999999,
+    "vence": "2028-01-30 00:00:00"
+  },
+  {
+    "ean": "7800018000831",
+    "interno": "1300M01",
+    "descripcion": "NAPROXENO 550 MG X 10 COMP REC.(ANDROMACO)",
+    "neto": 996,
+    "vence": "2025-12-31 00:00:00"
+  },
+  {
+    "ean": "7800063001944",
+    "interno": "000013",
+    "descripcion": "NAPROXENO 550MGX10 COMP (MINTLAB)",
+    "neto": 806.4,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": 7800028210350,
+    "interno": "100098710R01",
+    "descripcion": "NASTIZOL COMPT JBE 100ML",
+    "neto": 6180,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800028003105",
+    "interno": "10G022118R01",
+    "descripcion": "NASTIZOL COMPUESTO 120 COMP (6COMP)",
+    "neto": 14238,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": 7800028005536,
+    "interno": "100921218R01",
+    "descripcion": "NASTIZOL DN 18COMP",
+    "neto": 3061.5116377358486,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800041047605",
+    "interno": "10G021918R01",
+    "descripcion": "NASTUL CPTO 10 COMP",
+    "neto": 1356,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800041047643",
+    "interno": "1301R06",
+    "descripcion": "NASTUL SOL ORAL GOTAS X 15 ML",
+    "neto": 2028,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "7730969300332",
+    "interno": "1051N02",
+    "descripcion": "NEFERSIL 125 MG X 10 COMP. REC.",
+    "neto": 2521.2,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7800007122629",
+    "interno": "100D05",
+    "descripcion": "NEOMICINA 500MG",
+    "neto": 4891.154545454545,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7800007144515",
+    "interno": "100064523D01",
+    "descripcion": "NISTATINA 100000UI UNG 15GR",
+    "neto": 1320.2625,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7800063120935",
+    "interno": "100388618J01",
+    "descripcion": "NITROFURANTOINA MACRO 100MGX10 COMP (MINTLAB)",
+    "neto": 1164,
+    "vence": "2027-05-30 00:00:00"
+  },
+  {
+    "ean": 7800063130033,
+    "interno": "100GE5110R05",
+    "descripcion": "NOSCAPINA 5MG/5ML JBE 100ML",
+    "neto": 1016.13986013986,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7804673040232",
+    "interno": "160A02",
+    "descripcion": "OMEPRAZOL 20MGX30 CAPS",
+    "neto": 576.0146969848836,
+    "vence": "2027-05-31 00:00:00"
+  },
+  {
+    "ean": "7804673040249",
+    "interno": "16003A02",
+    "descripcion": "OMEPRAZOL 20MGX60 CAPS",
+    "neto": 1032.1747941735275,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800004340453",
+    "interno": "000215",
+    "descripcion": "ORALGINE 0,12% COLT.500 ML ",
+    "neto": 3564,
+    "vence": "2027-11-25 00:00:00"
+  },
+  {
+    "ean": "8904103331738",
+    "interno": "100AA04",
+    "descripcion": "OTOC 4 MG 8 COMP. BUDISP. ",
+    "neto": 6981.599999999999,
+    "vence": "2027-08-31 00:00:00"
+  },
+  {
+    "ean": "8904103326574",
+    "interno": "1050N07",
+    "descripcion": "OTOC 8 MG X 10 COMP. BUCODISP.",
+    "neto": 5880,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7800068010163",
+    "interno": "101016307R01",
+    "descripcion": "OXILIN 0,05% SOLN NASAL 15ML",
+    "neto": 4919.991545524998,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800063130507",
+    "interno": "119915810R05",
+    "descripcion": "OXOLAMINA 28 MG PED JBE  100ML",
+    "neto": 1021.8234086242298,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800063130514",
+    "interno": "100431510R05",
+    "descripcion": "OXOLAMINA 50 MG AD JBE  100ML",
+    "neto": 1152,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7803504404113",
+    "interno": "10G026010R05",
+    "descripcion": "PALTOMIEL JBE. PED. KNOP",
+    "neto": 1231.2,
+    "vence": "2026-12-28 00:00:00"
+  },
+  {
+    "ean": "8902281614162",
+    "interno": "000533",
+    "descripcion": "PAMERA DUO 37,5 / 325 MG",
+    "neto": 1716,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7804900000305",
+    "interno": "177236618N02",
+    "descripcion": "PANADOL  ADVANCE 500MGX48 COMP",
+    "neto": 2366.28,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7804900000299",
+    "interno": "1005N02",
+    "descripcion": "PANADOL ADVANCE 500 MG x 12 COMP. REC.",
+    "neto": 674.112,
+    "vence": "2027-02-24 00:00:00"
+  },
+  {
+    "ean": "7451079003462",
+    "interno": "000262",
+    "descripcion": "PANADOL INFANTIL 80MG X 20 COMP ",
+    "neto": 1430.1119999999999,
+    "vence": "2026-03-31 00:00:00"
+  },
+  {
+    "ean": "7800063111001",
+    "interno": "10G0120N02",
+    "descripcion": "PARACETAMOL 80MGX 20COMP",
+    "neto": 496.6766355140187,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800063111414",
+    "interno": "10G013218N02",
+    "descripcion": "PARACETAMOL 80MGX100 COMP",
+    "neto": 2218.7999999999997,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7891317003616",
+    "interno": "000709",
+    "descripcion": "PARODOX 20 MG X 30 COMP. REC.",
+    "neto": 7508.849999999999,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7803504001725",
+    "interno": "100BN06",
+    "descripcion": "PASSIFLORA TM 50 COMPRIMIDOS",
+    "neto": 2808,
+    "vence": "2028-06-30 00:00:00"
+  },
+  {
+    "ean": 7803504001237,
+    "interno": "125966410R05",
+    "descripcion": "PECTOX JBE 35MG/5ML 120ML",
+    "neto": 1560,
+    "vence": "2026-02-28 00:00:00"
+  },
+  {
+    "ean": "7800007124753",
+    "interno": "122AM01",
+    "descripcion": "PIROXICAM [BE] 20 MG 10 COMP.",
+    "neto": 502.79999999999995,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063330556",
+    "interno": "1001AA03",
+    "descripcion": "PLAZOLIT 5MG/ML 15ML GOTAS",
+    "neto": 1522.8,
+    "vence": "2027-04-30 00:00:00"
+  },
+  {
+    "ean": "7800063330563",
+    "interno": "1002AA03",
+    "descripcion": "PLAZOLIT FORTE 10MG/ML 15ML GOTAS",
+    "neto": 1664.3999999999999,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800044000119",
+    "interno": "114100527D01",
+    "descripcion": "POMADA SALICILADA 10% X 25GR",
+    "neto": 1112.5714285714284,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7801000277750",
+    "interno": "000531",
+    "descripcion": "POVISEPT 10% S.TOP.30 ML(DIFEM)",
+    "neto": 1212.12,
+    "vence": "2027-12-30 00:00:00"
+  },
+  {
+    "ean": "17804640561569",
+    "interno": "1020H02",
+    "descripcion": "PREDNISONA 20 MG / 5 ML SUSP. ORAL X 60 ML",
+    "neto": 2551.2,
+    "vence": "2026-03-31 00:00:00"
+  },
+  {
+    "ean": "7800004004980",
+    "interno": "100457718N02",
+    "descripcion": "PREDUAL 10COMP",
+    "neto": 912,
+    "vence": "2027-11-28 00:00:00"
+  },
+  {
+    "ean": "7800004005000",
+    "interno": "11G027518N02",
+    "descripcion": "PREDUAL 125 COMP (25X5)",
+    "neto": 8672.4,
+    "vence": "2027-10-30 00:00:00"
+  },
+  {
+    "ean": "7804673040423",
+    "interno": "160000001N03",
+    "descripcion": "PREGABALINA 75MG X30 CAP",
+    "neto": 1443.22238372093,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800068014192",
+    "interno": "1200R06",
+    "descripcion": "PRODEL-B JBE X 120 ML",
+    "neto": 5986.8,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7800007125644",
+    "interno": "102AC07",
+    "descripcion": "PROPANOLOL 40MG X 20 COMP",
+    "neto": 340.3862068965517,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "8903726208847",
+    "interno": "125AN05",
+    "descripcion": "QUETIAPINA 100 MG 30 COMP.REC.(SEVENPHARMA)",
+    "neto": 2096.4,
+    "vence": "2027-07-31 00:00:00"
+  },
+  {
+    "ean": "7800007806628",
+    "interno": "000819",
+    "descripcion": "QUETIAPINA 100 MG X 30 COM REC(LAB CHILE)",
+    "neto": 2448,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "8903726308820",
+    "interno": "100336518N05",
+    "descripcion": "QUETIAPINA 25MGX30 COMP",
+    "neto": 1224,
+    "vence": "2027-04-01 00:00:00"
+  },
+  {
+    "ean": "7804667110026",
+    "interno": "140283318C10",
+    "descripcion": "REDISTATIN 10MG 30 COMP",
+    "neto": 3000,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800007804877",
+    "interno": "10G030715S01",
+    "descripcion": "RED-OFF 0,0125% 15ML",
+    "neto": 3101.3759999999997,
+    "vence": "2026-09-28 00:00:00"
+  },
+  {
+    "ean": "7793640992691",
+    "interno": "102A11",
+    "descripcion": "REDOXON TRIPLE ACCION 10 COMP EFERV",
+    "neto": 2198.4,
+    "vence": "2026-01-30 00:00:00"
+  },
+  {
+    "ean": "7800007660282",
+    "interno": "100BA12",
+    "descripcion": "REHSAL 90 MEQ PVO SOL ORAL LIMON X 4 SACHET",
+    "neto": 7638,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7800063310947",
+    "interno": "1201M01",
+    "descripcion": "RELATENE 100 MG X 20 COMP. REC. ENT.",
+    "neto": 1754.3999999999999,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7800038046178",
+    "interno": "1070P03",
+    "descripcion": "REPELEX CREMA PIEL SENSIBLE DE 80 G",
+    "neto": 2868,
+    "vence": "2027-11-30 00:00:00"
+  },
+  {
+    "ean": "7800038046192",
+    "interno": "100BP03",
+    "descripcion": "REPELEX NF SPRAY 165 ML",
+    "neto": 2308.7999999999997,
+    "vence": "2027-08-30 00:00:00"
+  },
+  {
+    "ean": "7804918402948",
+    "interno": "1300A06",
+    "descripcion": "RIGOTAX 10 MG/ML SOL ORAL GOTAS X 15 ML",
+    "neto": 4980,
+    "vence": "2026-10-31 00:00:00"
+  },
+  {
+    "ean": "7800060163812",
+    "interno": "1001B01",
+    "descripcion": "RIVOXA(B) 15MG 30 COMP",
+    "neto": 37902,
+    "vence": "2025-11-30 00:00:00"
+  },
+  {
+    "ean": "8903726193372",
+    "interno": "125AC10",
+    "descripcion": "ROSUVASTATINA [ES] 10 MG 30 COMP.REC.",
+    "neto": 2268,
+    "vence": "2026-01-30 00:00:00"
+  },
+  {
+    "ean": "7800063480022",
+    "interno": "100076806R03",
+    "descripcion": "SALBUTAMOL INH 100 MCG/DOSIS",
+    "neto": 1188.1722772277226,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": 7800038046734,
+    "interno": "100132600D08",
+    "descripcion": "SANIGERMIN TRICLOSAN 0,3% PAN 90GR",
+    "neto": 996,
+    "vence": "2026-01-31 00:00:00"
+  },
+  {
+    "ean": "7800063116419",
+    "interno": "000251",
+    "descripcion": "SERTRALINA 100 MG X 30 COMP (MINTLAB)",
+    "neto": 1500,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063115443",
+    "interno": "100294618N06",
+    "descripcion": "SERTRALINA 50MGX30 COMP BE (MINTLAB)",
+    "neto": 504,
+    "vence": "2027-05-30 00:00:00"
+  },
+  {
+    "ean": "7861148022285",
+    "interno": "127239718M01",
+    "descripcion": "SYNDOL SL 30MG 4COMP",
+    "neto": 5639.497959183674,
+    "vence": "2026-07-30 00:00:00"
+  },
+  {
+    "ean": "7800044001857",
+    "interno": "1200A11",
+    "descripcion": "T.R.O 60 MEQ X 30 SOBRES",
+    "neto": 6096,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7800007808325",
+    "interno": "100CG04",
+    "descripcion": "TAMSULOSINA 0,4 MG X 30 COMP REC",
+    "neto": 2388,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800004000418",
+    "interno": "100250318N02",
+    "descripcion": "TAPSIN D/N 18 COMP",
+    "neto": 1247.3999999999999,
+    "vence": "2026-04-30 00:00:00"
+  },
+  {
+    "ean": "7800004004232",
+    "interno": "100278810N02",
+    "descripcion": "TAPSIN INF GTS 15ML",
+    "neto": 1680,
+    "vence": "2026-05-30 00:00:00"
+  },
+  {
+    "ean": "7800004007073",
+    "interno": "000824",
+    "descripcion": "TAPSIN INSTAFLU D/N X 6 COMP",
+    "neto": 481.2,
+    "vence": "2026-12-12 00:00:00"
+  },
+  {
+    "ean": "7800004002184",
+    "interno": "100419318N02",
+    "descripcion": "TAPSIN MIGRAÑA X180 COMP (6 COMP)",
+    "neto": 9312.075636363636,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800004369621",
+    "interno": "10G044118N02",
+    "descripcion": "TAPSIN ROJ/CAF X600 COMP",
+    "neto": 19956.3,
+    "vence": "2027-07-13 00:00:00"
+  },
+  {
+    "ean": 7800028003730,
+    "interno": "100403210R05",
+    "descripcion": "TOCEX JBE 60MG/10ML 120ML",
+    "neto": 3924,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": "7800060144941",
+    "interno": "1070A11",
+    "descripcion": "TOL 12 FORTE 10.000 SOL. INY. X 3 AMP. 3 ML",
+    "neto": 6112.5325077399375,
+    "vence": "2026-05-31 00:00:00"
+  },
+  {
+    "ean": "7800007794994",
+    "interno": "3003CR01",
+    "descripcion": "TRAMADOL 100MG/ML X20ML GTS",
+    "neto": 1368,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7800063001432",
+    "interno": "10G015118N02",
+    "descripcion": "TRAMADOL 50MG 10 CAP BE",
+    "neto": 849.6,
+    "vence": "2028-03-30 00:00:00"
+  },
+  {
+    "ean": "7800060407466",
+    "interno": "000717",
+    "descripcion": "TREX 500 MG X 3 COMP. REC.",
+    "neto": 11640,
+    "vence": "2027-03-31 00:00:00"
+  },
+  {
+    "ean": "780063111513",
+    "interno": "10G015018A03",
+    "descripcion": "TRIMEBUTINA 100MGX20 COMP",
+    "neto": 652.0424690671296,
+    "vence": "2028-07-30 00:00:00"
+  },
+  {
+    "ean": "7800060015685",
+    "interno": "10G025610R01",
+    "descripcion": "TRIO VAL  SUSP 100ML",
+    "neto": 4722.993865030675,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800063330068",
+    "interno": "100190710R05",
+    "descripcion": "TULOX 50MG/5 ML JBE AD 100 ML",
+    "neto": 2775.0395778364114,
+    "vence": "2028-06-30 00:00:00"
+  },
+  {
+    "ean": "7896009498374",
+    "interno": "000265",
+    "descripcion": "TUMS ENO 500MG x48 COMP MASTICABLES",
+    "neto": 10112.759999999998,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7800060147102",
+    "interno": "129413018C09",
+    "descripcion": "VALAX 160MG 30COMP (SAVAL)",
+    "neto": 6600,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7801000120445",
+    "interno": "100272523D02",
+    "descripcion": "VASELINA SOLIDA 24G.(DIFEM)",
+    "neto": 1082.472,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7800059005840",
+    "interno": "10G025310A03",
+    "descripcion": "VIADIL COMPUESTO GTS",
+    "neto": 2235.2380952380954,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7506309862095",
+    "interno": "000838",
+    "descripcion": "VICK VAPORUB UNG X 50 GR",
+    "neto": 3285.12,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7804614932022",
+    "interno": "000804",
+    "descripcion": "VIGER TADALAFILO 20MG X 10 COMP.(IPHSA)",
+    "neto": 7200,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7800044001543",
+    "interno": "100010018A11",
+    "descripcion": "VITAMINA C 100 COMP",
+    "neto": 610.2848309178744,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7804671180121",
+    "interno": "1000A11",
+    "descripcion": "VITAMINA C 1000 mg + ZINC 10 MG SABOR NARANJA GERMAN ENERGY 20 TABLETAS EFERVESCENTES",
+    "neto": 2244,
+    "vence": "2027-08-31 00:00:00"
+  },
+  {
+    "ean": "7804671180664",
+    "interno": "125GA11",
+    "descripcion": "VITAMINA C 1000 MG BERRIES GERMAN ENERGY 20 TABLETAS EFERVESCENTES",
+    "neto": 1992,
+    "vence": "2027-10-30 00:00:00"
+  },
+  {
+    "ean": "7804671180114",
+    "interno": "126GA11",
+    "descripcion": "VITAMINA C 1000 MG LIMON X 20 TABLETAS EFERV. GERMAN ENERGY",
+    "neto": 1836,
+    "vence": "2027-07-30 00:00:00"
+  },
+  {
+    "ean": "7804671180107",
+    "interno": "127AG11",
+    "descripcion": "VITAMINA C 1000 MG X 20 TAB. EFERV. GERMAN ENERGY",
+    "neto": 1980,
+    "vence": "2026-01-31 00:00:00"
+  },
+  {
+    "ean": "7804673040003",
+    "interno": "100001A11",
+    "descripcion": "VITAMINA C MASTICABLES 500 MGX30 COMP",
+    "neto": 876,
+    "vence": "2025-12-31 00:00:00"
+  },
+  {
+    "ean": 7800078000239,
+    "interno": "100235418A11",
+    "descripcion": "VITAMINA E 400UIX30 CAP",
+    "neto": 998.4,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7800063310824",
+    "interno": "100260918G04",
+    "descripcion": "ZILFIC 50MG X2 COMP",
+    "neto": 552,
+    "vence": "2028-01-31 00:00:00"
+  },
+  {
+    "ean": "7800050002954",
+    "interno": "100DR05",
+    "descripcion": "ZINC 15 MG 60 COMP",
+    "neto": 3288,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7809591402582",
+    "interno": "150A01",
+    "descripcion": "ZINCOVIT 5 MG / ML SOL ORAL GOTAS X 30 ML",
+    "neto": 9378,
+    "vence": "2029-02-28 00:00:00"
+  },
+  {
+    "ean": "7805633013433",
+    "interno": "428833700DMF",
+    "descripcion": "ALGODÓN PRENS 50GR F.SET",
+    "neto": 500,
+    "vence": "2029-10-30 00:00:00"
+  },
+  {
+    "ean": "7804918403440",
+    "interno": "PERF901",
+    "descripcion": "BENTLEY GEL LUBR INTIMO HOT X 50 GR",
+    "neto": 2611.925,
+    "vence": "2026-11-30 00:00:00"
+  },
+  {
+    "ean": "7805633014287",
+    "interno": "429114400DMF",
+    "descripcion": "BUBU TOA HUM C/ACE EM 80X2BUBU TOA HUM C/ACE EM PACK X2",
+    "neto": 1687.5,
+    "vence": "2027-05-30 00:00:00"
+  },
+  {
+    "ean": "7805633019183",
+    "interno": "PERF36",
+    "descripcion": "F.SET TALCO PIES",
+    "neto": 536.25,
+    "vence": "2027-06-30 00:00:00"
+  },
+  {
+    "ean": "7702035432117",
+    "interno": "PERF701",
+    "descripcion": "LISTERINE COOL MINT FRESCURA INTENSA X 180ML",
+    "neto": 1102.5,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7702031563327",
+    "interno": "PERF702",
+    "descripcion": "LISTERINE COOL MINT SIN ALCOHOL X 180ML",
+    "neto": 1102.5,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "6927804581051",
+    "interno": "106DMF",
+    "descripcion": "MAMADERA ASAS TOPKIDS 280ML",
+    "neto": 936.25,
+    "vence": "2025-12-30 00:00:00"
+  },
+  {
+    "ean": "7794640170133",
+    "interno": "PERFD01",
+    "descripcion": "PASTA DENTAL SENSODYNE REPARA & PROTEGE",
+    "neto": 4977.797202797203,
+    "vence": "2026-02-26 00:00:00"
+  },
+  {
+    "ean": "7509552840346",
+    "interno": "PERF051",
+    "descripcion": "REVITALIF AC. HIALURONICO CONTORNO OJOS 15 ML",
+    "neto": 10627.5,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7805633014539",
+    "interno": "419903400DMF",
+    "descripcion": "SEDA DENTAL 2X1 FAMILY SET",
+    "neto": 1152.5519415121787,
+    "vence": "2028-04-30 00:00:00"
+  },
+  {
+    "ean": "7800004005055",
+    "interno": "PERF703",
+    "descripcion": "VITAPOVIN POMO X20G",
+    "neto": 1775,
+    "vence": "2026-12-30 00:00:00"
+  },
+  {
+    "ean": "7800017002317",
+    "interno": "SUP800",
+    "descripcion": "BION BB GOTAS 8 G. (BIFIDOBACTERIUM BB-12)",
+    "neto": 16190.4,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "9300000000910",
+    "interno": "SUP036",
+    "descripcion": "CITRATO DE MAGNESIO 400MG X30 CAP.(PRANALAB)",
+    "neto": 1602.7199999999998,
+    "vence": "2027-03-17 00:00:00"
+  },
+  {
+    "ean": "7804616660121",
+    "interno": "000729",
+    "descripcion": "CRANBERRY 30 CAPS.BDAS.(LAB CHILE)",
+    "neto": 1716,
+    "vence": "2027-09-30 00:00:00"
+  },
+  {
+    "ean": "7803504421820",
+    "interno": "000268",
+    "descripcion": "EYKOSACOL CAP X 30",
+    "neto": 4978.8,
+    "vence": "2026-03-30 00:00:00"
+  },
+  {
+    "ean": "7804671180145",
+    "interno": "SUP072",
+    "descripcion": "MULTIVITAMINAS + BIOTINA SABOR NARANJA GERMAN ENERGY 20 TABLETAS EFERVESCENTES",
+    "neto": 1953.6,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7804616660572",
+    "interno": "000725",
+    "descripcion": "OMEGA 3-6-9 30 CAPSULAS BLANDAS",
+    "neto": 1872,
+    "vence": "2026-10-30 00:00:00"
+  },
+  {
+    "ean": "7804629440635",
+    "interno": "SUP001",
+    "descripcion": "POTENCIATOR 5MG X 5 AMP.",
+    "neto": 8628,
+    "vence": "2027-02-28 00:00:00"
+  },
+  {
+    "ean": "7804673040010",
+    "interno": "102SUP",
+    "descripcion": "VITAMINA C 1000 MG MASTICABLE X 30 COMP.",
+    "neto": 1437.8411812765278,
+    "vence": "2025-12-31 00:00:00"
+  },
+  {
+    "ean": "7800006003561",
+    "interno": "VETA1",
+    "descripcion": "V- MAMISTOP PERRO PVO SOL ORAL X125 GR/ Z 3+1",
+    "neto": 4119.599999999999,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "8713184148957",
+    "interno": "VET20",
+    "descripcion": "V-BRAVECTO PERRO 1.000MG 20-40 KG X1 COMP MAST",
+    "neto": 27026.04923076923,
+    "vence": "2026-03-31 00:00:00"
+  },
+  {
+    "ean": "7800006002861",
+    "interno": "VET2",
+    "descripcion": "V-INVERMIC 2% GATO SOL ORAL GOTAS X 10 ML",
+    "neto": 1007.5717839331851,
+    "vence": "2027-01-30 00:00:00"
+  },
+  {
+    "ean": "7800006003622",
+    "interno": "VETA2",
+    "descripcion": "V-MAMISTOP PERRO PVO SOL ORAL X 250 GR 3+1",
+    "neto": 6306,
+    "vence": "2026-06-30 00:00:00"
+  },
+  {
+    "ean": "7800006002410",
+    "interno": "VET5",
+    "descripcion": "V-NAXPET 10 MG X 10 COMP",
+    "neto": 4404,
+    "vence": "2027-11-30 00:00:00"
+  },
+  {
+    "ean": "7800006000249",
+    "interno": "VET3",
+    "descripcion": "VT INVERMIC 2% PERRO SOL ORAL GOTAS X 10 ML",
+    "neto": 994.8,
+    "vence": "2026-08-30 00:00:00"
+  },
+  {
+    "ean": "7804650311140",
+    "interno": "VET8",
+    "descripcion": "VT SIMPARICA 20 MG 5,1-10 KG X 1 COMP",
+    "neto": 5489.666666666667,
+    "vence": "2026-09-30 00:00:00"
+  },
+  {
+    "ean": "7800006000331",
+    "interno": "VET10",
+    "descripcion": "VT VERMIQUANTREL 50 MG X 1 COMP",
+    "neto": 2280,
+    "vence": "2027-03-30 00:00:00"
+  },
+  {
+    "ean": "7804650311133",
+    "interno": "VET7",
+    "descripcion": "VT-SIMPARICA 10 MG 2,5 - 5 KG X 1 COMP",
+    "neto": 5145.754822954823,
+    "vence": "2027-02-28 00:00:00"
+  }
+]
