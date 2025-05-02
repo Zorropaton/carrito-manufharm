@@ -99,6 +99,58 @@
             transform: translateY(-50%);
             color: #6b7280; /* Tailwind gray-500 */
         }
+
+        /* Ajustes para la tabla */
+        .bg-white {
+            overflow: visible; /* Asegura que el contenido no se recorte */
+        }
+
+        .overflow-x-auto {
+            overflow-x: auto;  /* Permite el scroll horizontal si es necesario */
+            max-height: none; /* Remueve la altura máxima */
+        }
+
+        table {
+            width: 100%; /* La tabla ocupa el 100% del contenedor */
+            border-collapse: collapse; /* Colapsa los bordes de las celdas */
+        }
+
+        th, td {
+            padding: 0.75rem 0.5rem;
+            text-align: left;
+            border-bottom: 1px solid #e5e7eb;
+        }
+         /* Asegurar que las columnas de Imagen y Acción tengan un ancho fijo */
+        th:nth-child(1),  /* Imagen */
+        td:nth-child(1),
+        th:last-child, /* Acción */
+        td:last-child {
+            width: 100px;
+            white-space: nowrap;
+        }
+        th:nth-child(2),  /* Descripción */
+        td:nth-child(2) {
+           width: 30%;
+        }
+
+        th {
+            font-size: 0.8rem;
+            line-height: 1.25rem;
+            font-weight: 500;
+            color: #6b7280;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        td {
+            font-size: 1rem;
+            line-height: 1.5rem;
+            color: #374151;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
     </style>
 </head>
 <body>
@@ -131,7 +183,7 @@
 
 
         <div class="bg-white shadow-md rounded-lg overflow-hidden">
-             <div class="overflow-x-auto max-h-[60vh]">
+            <div class="overflow-x-auto">
                 <table class="min-w-full divide-y divide-gray-200">
                     <thead class="bg-sky-100">
                         <tr>
@@ -433,7 +485,7 @@
 
     const handleAddToCart = (event) => {
         const ean = event.target.closest('button').dataset.ean;
-        const quantityInput = event.target.closest('.space-x-4').querySelector('.product-quantity-input');
+        const quantityInput = event.target.closest('tr').querySelector('.product-quantity-input');
         const quantity = parseInt(quantityInput.value);
         if (isNaN(quantity) || quantity <= 0) {
             showToast("Por favor, ingrese una cantidad válida.");
