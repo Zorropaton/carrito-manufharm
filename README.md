@@ -1,2 +1,0 @@
-# carrito-manufharm
-Carrito venta
