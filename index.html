@@ -324,12 +324,7 @@
                     <span class="text-lg font-semibold text-gray-700">Total Final:</span>
                     <span id="cart-grand-total" class="text-xl font-bold text-gray-900">$0</span>
                 </div>
-
-                <div id="rut-section" class="mb-4 hidden">
-                    <label for="customer-rut" class="block text-sm font-medium text-gray-700 mb-1">R.U.T. Empresa (Ej: 12345678-K):</label>
-                    <input type="text" id="customer-rut" name="customer-rut" required placeholder="12345678-K" class="w-full p-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-1 focus:ring-blue-500 transition duration-150">
-                </div>
-
+                
                 <div id="email-section" class="mb-4 hidden"> 
                     <label for="customer-email" class="block text-sm font-medium text-gray-700 mb-1">Tu correo electrónico (para copia del pedido):</label>
                     <input type="email" id="customer-email" name="customer-email" required placeholder="tu.correo@ejemplo.com" class="w-full p-2 border border-gray-300 rounded-lg shadow-sm focus:outline-none focus:ring-1 focus:ring-blue-500 transition duration-150">
@@ -380,8 +375,8 @@
     const checkoutButtonText = document.getElementById('checkout-button-text');
     const customerEmailInput = document.getElementById('customer-email');
     const emailSection = document.getElementById('email-section');
-    const customerRutInput = document.getElementById('customer-rut'); // Nuevo: Input R.U.T.
-    const rutSection = document.getElementById('rut-section'); // Nuevo: Contenedor del R.U.T.
+    // const customerRutInput = document.getElementById('customer-rut'); // Eliminado
+    // const rutSection = document.getElementById('rut-section'); // Eliminado
     const backToProductsCartButton = document.getElementById('back-to-products-cart');
     const backToProductsDetailButton = document.getElementById('back-to-products-detail');
     const emptyCartMessage = document.getElementById('empty-cart-message');
@@ -424,9 +419,15 @@
     };
 
     const parseCSV = (csvText) => {
+        console.log("[DEBUG] Iniciando parseCSV...");
         const lines = csvText.trim().split(/\r\n|\n/);
-        if (lines.length <= 1) return [];
+        if (lines.length <= 1) {
+            console.warn("[DEBUG] CSV vacío o solo con encabezados.");
+            return [];
+        }
+
         const headers = lines[0].split(';').map(header => header.trim().toUpperCase());
+        console.log("[DEBUG] Encabezados detectados:", headers);
         const products = [];
         const idxBarra = headers.indexOf('BARRA');
         const idxProducto = headers.indexOf('PRODUCTO');
@@ -436,10 +437,14 @@
         const idxNeto = headers.indexOf('NETO');
 
         if (idxDescProd === -1 || idxNeto === -1 || idxProducto === -1 || idxBarra === -1 || idxFecLote === -1 || idxLaboratorio === -1 ) {
-            errorMessage.textContent = "Error: El formato del archivo CSV de productos no es el esperado. Faltan columnas esenciales (BARRA, PRODUCTO, DESCPROD, LABORATORIO, FECLOTE, NETO).";
+            const missingHeaders = ['BARRA', 'PRODUCTO', 'DESCPROD', 'LABORATORIO', 'FECLOTE', 'NETO'].filter(h => headers.indexOf(h) === -1);
+            console.error("[DEBUG] Faltan encabezados esenciales en CSV:", missingHeaders.join(', '));
+            errorMessage.textContent = `Error: El formato del archivo CSV no es el esperado. Faltan columnas esenciales: ${missingHeaders.join(', ')}.`;
             errorMessage.classList.remove('hidden');
             return [];
         }
+        console.log("[DEBUG] Todos los encabezados esenciales están presentes.");
+
 
         for (let i = 1; i < lines.length; i++) {
             const lineValues = lines[i].split(';');
@@ -478,16 +483,19 @@
                 });
             }
         }
+        console.log(`[DEBUG] parseCSV finalizado. ${products.length} productos procesados de ${lines.length -1} líneas de datos.`);
         return products;
     };
 
     const fetchProducts = async () => {
+        console.log("[DEBUG] Iniciando fetchProducts...");
         loadingMessage.classList.remove('hidden');
         errorMessage.classList.add('hidden');
         productTableBody.innerHTML = '';
         paginationControls.innerHTML = '';
         try {
             const response = await fetch('./productos_pag.csv'); 
+            console.log(`[DEBUG] Fetch './productos_pag.csv' - Status: ${response.status}`);
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status} al cargar productos_pag.csv`);
             }
@@ -495,15 +503,28 @@
             allProducts = parseCSV(csvText); 
 
             if (!Array.isArray(allProducts)) {
+                console.error("[DEBUG] parseCSV no devolvió un array.");
                 throw new Error("La función parseCSV no devolvió un array.");
             }
+            console.log(`[DEBUG] Productos parseados: ${allProducts.length}`);
             
+            if (allProducts.length === 0 && errorMessage.classList.contains('hidden')) {
+                console.warn("[DEBUG] No se procesaron productos válidos del CSV, o el archivo está vacío después de los encabezados.");
+                errorMessage.textContent = "No se encontraron productos válidos en el archivo CSV. Verifique que los datos (descripción, precio neto, fecha de vencimiento) estén presentes y correctos en cada fila, o que el archivo no esté vacío después de la línea de encabezados.";
+                errorMessage.classList.remove('hidden');
+            }
+
             displayProducts = [...allProducts];
             currentPage = 1;
             renderProducts();
             renderPaginationControls();
         } catch (error) {
-            errorMessage.textContent = `Error al cargar los productos: ${error.message}. Por favor, verifica el archivo CSV (productos_pag.csv) y su formato.`;
+            console.error("[DEBUG] Error en fetchProducts:", error);
+            if (error.message.includes("Failed to parse URL")) {
+                 errorMessage.textContent = `Error al cargar los productos: No se pudo interpretar la ruta al archivo 'productos_pag.csv'. Asegúrate de que el archivo HTML y 'productos_pag.csv' estén en la misma carpeta y que el servidor web (si usas uno) pueda acceder a él. Detalles: ${error.message}`;
+            } else {
+                errorMessage.textContent = `Error al cargar los productos: ${error.message}. Por favor, verifica el archivo CSV (productos_pag.csv) y su formato.`;
+            }
             errorMessage.classList.remove('hidden');
             allProducts = [];
             displayProducts = [];
@@ -511,6 +532,7 @@
             renderPaginationControls();
         } finally {
             loadingMessage.classList.add('hidden');
+            console.log("[DEBUG] fetchProducts finalizado.");
         }
     };
 
@@ -526,9 +548,8 @@
             if (allProducts.length > 0 && errorMessage.classList.contains('hidden')) {
                 noResultsMessage.textContent = 'No se encontraron productos que coincidan con la búsqueda.';
                 noResultsMessage.classList.remove('hidden');
-            } else if (errorMessage.classList.contains('hidden') && loadingMessage.classList.contains('hidden')) {
-                noResultsMessage.textContent = 'No hay productos disponibles o el archivo CSV está vacío/mal formateado.';
-                noResultsMessage.classList.remove('hidden');
+            } else if (errorMessage.classList.contains('hidden') && loadingMessage.classList.contains('hidden') && allProducts.length === 0 ) {
+                 // No mostrar este mensaje si ya hay un error de carga más específico de fetchProducts o parseCSV
             }
             paginationControls.innerHTML = '';
             return;
@@ -548,7 +569,7 @@
         productsToRender.forEach(product => {
             if (!product || typeof product["DESCRIPCION DEL PRODUCTO"] !== 'string' || 
                 (typeof product["EAN-VALOR"] !== 'number' && typeof product["EAN-VALOR"] !== 'string')) {
-                console.warn("Producto omitido por datos incompletos:", product);
+                console.warn("[RENDER] Producto inválido o con datos faltantes omitido:", product);
                 return;
             }
             const row = document.createElement('tr');
@@ -675,11 +696,11 @@
             emptyCartMessage.classList.remove('hidden');
             checkoutButton.disabled = true;
             emailSection.classList.add('hidden');
-            rutSection.classList.add('hidden'); // Ocultar R.U.T. si el carrito está vacío
+            // rutSection.classList.add('hidden'); // R.U.T. Section Eliminada
         } else {
             emptyCartMessage.classList.add('hidden');
             emailSection.classList.remove('hidden');
-            rutSection.classList.remove('hidden'); // Mostrar R.U.T. si hay items
+            // rutSection.classList.remove('hidden'); // R.U.T. Section Eliminada
             cart.forEach(item => {
                 if (!item.product) return;
                 const itemTotalNeto = (parseFloat(item.product.NETO_NUMERICO) || 0) * item.quantity;
@@ -758,19 +779,7 @@
         }, 3000);
     };
 
-    // Función para validar el R.U.T. chileno
-    const validateRut = (rutCompleto) => {
-        if (!/^[0-9]+-[0-9kK]{1}$/.test(rutCompleto)) return false;
-        var tmp = rutCompleto.split('-');
-        var digv = tmp[1];
-        var rut = tmp[0];
-        if (digv == 'K') digv = 'k';
-        var M = 0, S = 1;
-        for (; rut; rut = Math.floor(rut / 10))
-            S = (S + rut % 10 * (9 - M++ % 6)) % 11;
-        return (S ? S - 1 : 'k') == digv;
-    };
-
+    // const validateRut = (rutCompleto) => { ... }; // Función eliminada
 
     if (emailjsPublicKey && emailjsPublicKey !== 'YOUR_PUBLIC_KEY' && 
         emailjsServiceId && emailjsServiceId !== 'YOUR_SERVICE_ID' && 
@@ -790,25 +799,15 @@
             return;
         }
         const customerEmail = customerEmailInput.value.trim();
-        const customerRut = customerRutInput.value.trim(); // Obtener R.U.T.
+        // const customerRut = customerRutInput.value.trim(); // Eliminado
 
         if (!customerEmailInput.checkValidity() || !customerEmail) { 
             showToast("Por favor, ingresa un correo electrónico válido.", 'warning'); 
             customerEmailInput.focus(); 
             return; 
         }
-        // Validación del R.U.T.
-        if (!customerRut) {
-            showToast("Por favor, ingresa el R.U.T. de la empresa.", 'warning');
-            customerRutInput.focus();
-            return;
-        }
-        if (!validateRut(customerRut)) {
-            showToast("El R.U.T. ingresado no es válido. Formato: XX.XXX.XXX-X o XXXXXXXX-X.", 'warning');
-            customerRutInput.focus();
-            return;
-        }
-
+        // Validación del R.U.T. Eliminada
+        
         if (cart.length === 0) { showToast("Tu carrito está vacío. Agrega productos antes de enviar el pedido.", 'warning'); return; }
 
         checkoutButton.disabled = true;
@@ -843,7 +842,7 @@
             order_id: orderId, orders: orderItemsDetails,
             cost: { shipping: "0", tax: formatCurrency(totalIVAGeneral), total: formatCurrency(totalFinalGeneral), subtotal_neto: formatCurrency(totalNetoGeneral) },
             email: customerEmail, 
-            customer_rut: customerRut, // Incluir R.U.T. en los parámetros
+            // customer_rut: customerRut, // R.U.T. Eliminado de los parámetros
             from_name: "Drogueria Manufharm", reply_to: customerEmail, pharmacy_email: farmaciaEmail
         };
         emailjs.send(emailjsServiceId, emailjsTemplateId, templateParams)
